@@ -11,20 +11,20 @@ D4 MANAJEMEN INFORMATIKA FAKULTAS VOKASI UNIVERSITAS NEGERI SURABAYA TAHUN 2023
 BAB 1
 PENDAHULUAN
 1.1	Latar Belakang
-Dalam era digital yang semakin maju ini, website telah menjadi bagian tidak terpisahkan dalam kehidupan sehari-hari. Website-website tersebut tidak hanya memberikan kenyamanan, tetapi juga membuka peluang baru dalam berbagai sektor, termasuk industri retail. Salah satu bentuk website yang semakin populer adalah website Di era digital yang semakin maju, layanan belanja online telah menjadi bagian integral dalam kehidupan sehari-hari banyak orang. Salah satu tren yang terus berkembang adalah pembelian makanan dan minuman secara online dan informasi terkait sebuah kedai kopi sehingga memungkin kita mendapat informasi secara online tanpa harus datang ke kedai kopi terlebih dahulu secara langsung. Website kedai kopi “Bitween Suburbians” hadir untuk memenuhi kebutuhan konsumen yang mencari rekomendasi minuman dan kopi susu berkualitas tinggi dan lezat dengan kenyamanan dalam informasi yang diberikan dari rumah.
+    Dalam era digital yang semakin maju ini, website telah menjadi bagian tidak terpisahkan dalam kehidupan sehari-hari. Website-website tersebut tidak hanya memberikan kenyamanan, tetapi juga membuka peluang baru dalam berbagai sektor, termasuk industri retail. Salah satu bentuk website yang semakin populer adalah website Di era digital yang semakin maju, layanan belanja online telah menjadi bagian integral dalam kehidupan sehari-hari banyak orang. Salah satu tren yang terus berkembang adalah pembelian makanan dan minuman secara online dan informasi terkait sebuah kedai kopi sehingga memungkin kita mendapat informasi secara online tanpa harus datang ke kedai kopi terlebih dahulu secara langsung. Website kedai kopi “Bitween Suburbians” hadir untuk memenuhi kebutuhan konsumen yang mencari rekomendasi minuman dan kopi susu berkualitas tinggi dan lezat dengan kenyamanan dalam informasi yang diberikan dari rumah.
 1.2	Tujuan 
-Tujuan identifikasi mengenai produk website Bitween Suburbians adalah untuk menjelaskan cakupan dari produk yang dijelaskan dalam dokumen SRS, termasuk tujuan dari website, fungsi utama, karakteristik pengguna, lingkungan operasional, kendala desain dan implementasi, dokumentasi pengguna, asumsi dan ketergantungan. Dengan tujuan ini, pembaca dokumen akan memahami produk yang akan dikembangkan dan batasan serta kondisi yang harus dipertimbangkan dalam mengembangkan website tersebut.     
+    Tujuan identifikasi mengenai produk website Bitween Suburbians adalah untuk menjelaskan cakupan dari produk yang dijelaskan dalam dokumen SRS, termasuk tujuan dari website, fungsi utama, karakteristik pengguna, lingkungan operasional, kendala desain dan implementasi, dokumentasi pengguna, asumsi dan ketergantungan. Dengan tujuan ini, pembaca dokumen akan memahami produk yang akan dikembangkan dan batasan serta kondisi yang harus dipertimbangkan dalam mengembangkan website tersebut.     
 1.3 Konvesi Dokumen 
-Konvensi tipografi yang umum digunakan meliputi penggunaan huruf tebal atau italic untuk menyoroti kata-kata atau frasa yang penting, serta penggunaan nomor atau huruf untuk menyusun hierarki persyaratan. Selain itu, ada juga standar tertentu yang dapat diikuti, seperti IEEE 830 yang menetapkan format dan struktur umum untuk.     
+    Konvensi tipografi yang umum digunakan meliputi penggunaan huruf tebal atau italic untuk menyoroti kata-kata atau frasa yang penting, serta penggunaan nomor atau huruf untuk menyusun hierarki persyaratan. Selain itu, ada juga standar tertentu yang dapat diikuti, seperti IEEE 830 yang menetapkan format dan struktur umum untuk.     
 1.4 Audiens yang Dituju dan Saran Bacaan 
- Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin memiliki peran yang berbeda dalam proyek pengembangan perangkat lunak, termasuk: 
+    Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin memiliki peran yang berbeda dalam proyek pengembangan perangkat lunak, termasuk: 
 1. Pengembang : orang yang bertanggung jawab untuk merancang, mengembangkan, dan mengimplementasikan perangkat lunak. Mereka akan membutuhkan informasi detail tentang persyaratan fungsional dan nonfungsional, antarmuka, dan ketergantungan yang diperlukan oleh perangkat lunak. 
 2. Manajer Proyek : orang yang bertanggung jawab untuk merencanakan, mengarahkan, dan mengawasi pengembangan perangkat lunak. Mereka akan membutuhkan informasi tentang jadwal, sumber daya, tanggung jawab, risiko, dan kendala proyek. 
 3. Pengguna : orang yang akan menggunakan perangkat lunak. Mereka akan membutuhkan informasi tentang fitur dan fungsi yang tersedia dalam perangkat lunak, serta persyaratan yang harus dipenuhi untuk menggunakannya. 
 4. Penguji : orang yang bertanggung jawab untuk menguji perangkat lunak untuk memastikan bahwa perangkat lunak memenuhi persyaratan. Mereka akan membutuhkan informasi tentang persyaratan fungsional dan nonfungsional, dan bagaimana perangkat lunak harus beroperasi. 
 5. Penulis Dokumentasi: orang yang bertanggung jawab untuk menulis dokumen-dokumen yang menjelaskan bagaimana cara menggunakan atau memelihara perangkat lunak. Mereka akan membutuhkan informasi tentang fitur dan fungsi perangkat lunak, serta bagaimana menggunakannya. 
 1.5 Cakupan Produk 
-Dokumen ini menjelaskan tentang perangkat lunak website kedai kopi Bitween Suburbians. Tujuan dari perangkat lunak ini adalah untuk memfasilitasi operasi dari sebuah kedai kopi “Bitween Suburbians”. Website ini dirancang untuk memungkinkan pengguna untuk melakukan manajemen inventaris, pelacakan penjualan, dan pelaporan secara efektif. Website kedai kopi ini diharapkan dapat memberikan manfaat bagi pengguna, terutama bagi pemilik kedai kopi. dengan website ini juga dapat membantu pemilik kedai dalam mengambil keputusan bisnis yang lebih baik berdasarkan data dan informasi yang akurat dan terkini. Perangkat lunak ini dirancang untuk mendukung tujuan perusahaan atau strategi bisnis dalam meningkatkan efisiensi operasional dan pengambilan keputusan yang lebih baik berdasarkan data yang akurat dan terkini. Website ini juga dapat membantu kedai kopi Bitween dalam meningkatkan pelayanan dan kepuasan pelanggan dengan menyediakan inventaris yang terorganisir dan harga yang terjangkau. 
+    Dokumen ini menjelaskan tentang perangkat lunak website kedai kopi Bitween Suburbians. Tujuan dari perangkat lunak ini adalah untuk memfasilitasi operasi dari sebuah kedai kopi “Bitween Suburbians”. Website ini dirancang untuk memungkinkan pengguna untuk melakukan manajemen inventaris, pelacakan penjualan, dan pelaporan secara efektif. Website kedai kopi ini diharapkan dapat memberikan manfaat bagi pengguna, terutama bagi pemilik kedai kopi. dengan website ini juga dapat membantu pemilik kedai dalam mengambil keputusan bisnis yang lebih baik berdasarkan data dan informasi yang akurat dan terkini. Perangkat lunak ini dirancang untuk mendukung tujuan perusahaan atau strategi bisnis dalam meningkatkan efisiensi operasional dan pengambilan keputusan yang lebih baik berdasarkan data yang akurat dan terkini. Website ini juga dapat membantu kedai kopi Bitween dalam meningkatkan pelayanan dan kepuasan pelanggan dengan menyediakan inventaris yang terorganisir dan harga yang terjangkau. 
 1.6 Referensi 
 1. https://www.bbc.co.uk/bitesize/guides/znvfscw/revision/2 
 2. https://www.digitalmarketingcommunity.com/articles/importance-of-ecommerce/
@@ -37,13 +37,13 @@ Dokumen ini menjelaskan tentang perangkat lunak website kedai kopi Bitween Subur
 BAB II
 DESKRIPSI KESELURUHAN
 2.1 Perspektif Produk
-Produk yang dijelaskan dalam SRS ini adalah webiste Bitween Suburbians, yang merupakan produk mandiri baru. Website ini bertujuan untuk menyediakan platform bagi pengguna untuk memberi seputar informasi terkait kedai kopi secara online. 
+    Produk yang dijelaskan dalam SRS ini adalah webiste Bitween Suburbians, yang merupakan produk mandiri baru. Website ini bertujuan untuk menyediakan platform bagi pengguna untuk memberi seputar informasi terkait kedai kopi secara online. 
 2.2 Fungsi Produk 
 A. Dirancang khusus untuk membantu pengelolaan dan operasional kedai kopi Bitween Suburbins secara online. 
 B. Membantu kami dalam melakukan digital marketing pada kedai kopi secara online agar dapat mudah di jangkau oleh siapapun
 C. Website Bitween Suburbians memungkinkan pengguna untuk membeli produk yang diinginkan. Pengguna dapat memasukkan pertanyaan  seperti membuka kerjasama, memberi rating terhadap kedai kopin dengan memasukkan nama, email, no hp, dan pesan yang ingin disampaikan
 2.3 Kelas Pengguna Dan Karakteristik
-Berdasarkan tujuan dan fungsi utama dari produk website Bitween Suburbians dan  beberapa kelas pengguna yang diantisipasi akan menggunakan produk ini meliputi: 
+    Berdasarkan tujuan dan fungsi utama dari produk website Bitween Suburbians dan  beberapa kelas pengguna yang diantisipasi akan menggunakan produk ini meliputi: 
 A.	Admin : Kelas pengguna ini akan memiliki hak akses penuh ke sistem dan bertanggung jawab untuk mengelola pengguna, produk, dan laporan. Admin harus memiliki keahlian teknis yang tinggi dalam mengelola website, termasuk pengaturan dan konfigurasi server. 
 B.	Pembeli : Kelas pengguna ini dapat menjelajahi produk yang ditawarkan oleh penjual. Mereka harusbmelakukan transaksi melalui aplikasi. Pembeli harus memiliki keahlian teknis tertentu untuk menggunakan aplikasi kami. 
 C.	Tamu: Kelas pengguna ini adalah pengunjung. Mereka dapat menjelajahi dan melihat produk yang ditawarkan oleh penjual, dan dapat melakukan transaksi atau mengakses fitur lainnya di aplikasi. Dan pengguna dapat bertransasksi secara langsung pada kedai kami.
@@ -75,12 +75,12 @@ Berikut panduan penggunaan website bagi pengguna tentang fitur-fitur penting pad
 5.	Pengalihan pemesan melalui aplikasi : pengguna dapat memesan produk kami, dengan menggunakan aplikasi yang tersedia. Dimana nantinnya kami akan membuat sebuah aplikasi terkait pemesan produk pelanggan. Untuk pengambilan pemesan, dapat kami delivery maupun memngambil produk pada kedai kami(Pick up)
 6.	Pengalihan pemesan terhadap kedai : pada kasus ini, kami meiliki dua kasus. Yang pertama jika pelanggan sudah memesan melalui aplikasi dan memilih pengambilan produk secara pick up. Maka pelanggan hanya memberikan kode kepada penjual kedai kopi, maka kopi sudah dapat diproses-menikmati. Lalu pada kasus ke dua, pelanggan dapat datang secara langsung dengan informasi yang tersedia pada website letak kedai kopi bitween suburbians. Dan pelanggan memilih produk yang diinginkan. Penjual memproses pemasan pelanggan.
 2.7 Asumsi Dan Ketergantungan
-A. Asumsi 
+    A. Asumsi 
 1. Asumsi Umum Pengguna memiliki akses internet stabil untuk mengakses platform.
 2. Keamanan Data Tindakan keamanan yang memadai akan diimplementasikan untuk melindungi data pengguna dari akses tidak sah atau kebocoran.
 3. ketersediaan aplikasi diharapkan dapat membantu pelanggan dan penjual dalam berjalannya suatu pemesan produk kedai kopi between suburbians
 4. ketersediaan kedai kopi dapat memperkenalkan lokasi kedai bitween suburbians dan di harapkan dapat meningkatkan pengunjung pada kedai kopi
-B. Ketergantungan 
+    B. Ketergantungan 
 1.Ketergantungan Eksternal Platform mengandalkan API dari toko online mitra untuk menyediakan rekomendasi produk dan harga.
 2. Pengembangan Bahasa Pemrograman Ketersediaan sumber daya dan dukungan untuk bahasa pemrograman yang digunakan dalam pengembangan (HTML, CSS, JavaScript) harus dijamin.
 3. Ketersediaan Server dan Hosting Layanan hosting dan server harus stabil dan dapat diandalkan untuk menjalankan platform secara efisien.
@@ -91,7 +91,7 @@ B. Ketergantungan
 BAB III
 KEBUTUHAN ANTARMUKA EKSTERNAL
 3.1 Antarmuka Pengguna
-Antarmuka Pengguna memberikan pemahaman mengenai fitur-fitur yang adaa dan bagaiman pengguna berinterkasi dengan website kedai kopi ini. Beberapa komponen antarmuka pengguna yang ada dalam website kedai kopi bitween suburbuans meliputi:
+    Antarmuka Pengguna memberikan pemahaman mengenai fitur-fitur yang adaa dan bagaiman pengguna berinterkasi dengan website kedai kopi ini. Beberapa komponen antarmuka pengguna yang ada dalam website kedai kopi bitween suburbuans meliputi:
 1.	Halam beranda : menjelaskan tampilan dan informasi yang di tampilkan pada halam beranda, didalamnya terdapat gambaran umum pengguna website dan fitur-fitur yang ditawarkan
 2.	Pencarian produk : pencarian terkait produk kedai kopi, memudahkan pengguna dalam mencari produk yang diinginkan
 3.	Tampilan tentang kami : menjelaskan kedai kopi seperti apa, kepada pengguna yang membuka laman website ini
@@ -100,11 +100,35 @@ Antarmuka Pengguna memberikan pemahaman mengenai fitur-fitur yang adaa dan bagai
 6.	Pilihan Bahasa : pada fitur ini membantu pengguna dalam pemakaian website ingin menggunakan Bahasa Indonesia atau Bahasa inggris
 7.	Tampilan kontak : melanjutkana komunikasi antar pengguna dan pemiliki kedai terkait informasi produk, rekan bisnis, partner bisnis dan ulasan kedai dan produk kopi bitween suburbians
 3.2 antarmuka perangkat keras 
-Aplikasi ini dapat diakses dengan menggunakan beberapa perangkat keras seperti mouse sebagai pointer, keyboard sebagai tombol input, dan yang terpenting yaitu handphone atau laptop untuk mengakses aplikasi dengan terhubung ke internet. Kecepatan aplikasi berbasis website ini pada saat digunakan tergantung pada juga kecepatan internet yang digunakan dan kondisi perangkat.
-3.3.
+    Aplikasi ini dapat diakses dengan menggunakan beberapa perangkat keras seperti mouse sebagai pointer, keyboard sebagai tombol input, dan yang terpenting yaitu handphone atau laptop untuk mengakses aplikasi dengan terhubung ke internet. Kecepatan aplikasi berbasis website ini pada saat digunakan tergantung pada juga kecepatan internet yang digunakan dan kondisi perangkat.
+3.3. Antarmuka Perangkat Lunak
+    Produk perangkat lunak yang  dikembangkan mungkin bergantung pada sejumlah komponen perangkat lunak khusus lainnya seperti database, sistem operasi, alat, perpustakaan, dan komponen komersial terintegrasi. Komponen perangkat lunak terkait produk lainnya mungkin mencakup:
+1.	Basis Data:
+Produk mungkin bergantung pada database tertentu untuk penyimpanan dan pengambilan data. Versi dan spesifikasi database ditentukan. Pesan atau data yang masuk ke  sistem dapat berupa permintaan untuk mengambil data dari database atau  menyimpan data ke  database.
+2.	Sistem operasi:
+Produk mungkin bergantung pada sistem operasi tertentu untuk menjalankan Website. Versi dan spesifikasi sistem operasi ditentukan menggunakan semua OS yang bisa menjalankan Google Chrome. Pesan atau data yang dimasukkan ke dalam sistem dapat berupa instruksi dari sistem operasi atau pemberitahuan yang diterima dari sistem operasi.
+Data atau pesan yang masuk ke dalam sistem dapat mencakup permintaan untuk menjalankan fungsi atau proses tertentu, permintaan untuk mengambil atau menyimpan data, atau notifikasi tentang peristiwa tertentu yang terjadi dalam sistem. Tujuan dari data atau pesan tersebut adalah untuk memungkinkan interaksi antara komponen perangkat lunak yang berbeda dan memfasilitasi  jalannya website.
+Layanan yang dibutuhkan mungkin mencakup layanan jaringan, layanan pengamanan, layanan pemantauan kinerja, dan layanan lainnya. Komunikasi antara komponen perangkat lunak dapat dilakukan melalui protokol antarmuka pemrograman website tertentu, seperti REST atau SOAP.
+Data yang akan dibagikan di seluruh komponen perangkat lunak harus ditentukan dalam SRS. Mekanisme berbagi data harus diimplementasikan dengan cara yang sesuai dan dapat diandalkan, seperti penggunaan panggilan fungsi atau variabel global. Batasan implementasi harus dijelaskan secara terperinci dalam spesifikasi antarmuka pengguna yang terpisah.
 
 
+BAB IV
+FITUR SISTEM DAN KERANGKA DESAIN FITUR
+4.1 Tampilan Menu Awal (Home)
 
+    Pada awal pengguna membuka halam website, penggun mendapat fitur footer yang terdiri dari home, tentang kami, menu, produk, hubungi kami, dan pilihan bahasa. Selanjutnya pada bagian kanan, terdapat fitur pencarian, yang berguna untuk mencari produk yang diinginkan oleh pengguna, lalu tampilan keranjang, dan tampilah homebar
+4.2 Tampilan Tentang Kami
+
+    Pada tampilan, terdapat sebuah kalimat yang diambil dari sebuah tembok yang berada di kedai kopi bitwen. Dan terdapat gambaran foto kedai kopi bitween suburbians. Dimana diharapkan dengan keberadaan tampilan tentang kami pada website, dapat mengundang para pengunjung untuk berkunjung ke kedai kopi
+4.3 Tampilan Menu
+
+	Pada tampilan menu, pengguna dapat terbantu. Bahwa terdapat menu apa saja yang tersedia di dalam kedai kopi bitween suburbians. Pada tampilan menu, terdapat foto produk, dan juga harga produk
+4.4 Tampilan Produk
+ 
+    Selanjutnya pada tampilan produk, ialah tampilan produk apa saja yang bestseller pada kedai kopi bitween suburbians. Yang mana terdapat penjeleasan terkait produk, rating produk, harga produk, foto produk. Dan fitur tambahkan produk ke keranjang
+4.5 Tampilan Hubungi Kami
+ 
+    Pada tampilan ini, pengguna dapat menghubungi bitween dengan menyatumkan nama, email, no hp, dan pesan yang ingin di sampaikan. Dan terdapat tombol kirim pesan di bawahnya. Lalu pada tampilan kiri, terdapat peta menuju kedai kopi. 
 
 BAB V
 PERSYARATAN NONFUNGSIONAL LAINNYA 
